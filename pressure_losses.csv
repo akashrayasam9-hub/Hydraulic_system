@@ -1,0 +1,6 @@
+Loss_Source,Loss_Type,Pressure_Loss_bar,Pressure_Loss_kPa
+Pipe friction (1 m length),Major,0.3062,30.62
+Sudden contraction,Minor,0.0544,5.44
+Elbow bend (k=0.8),Minor,0.087,8.7
+T joint (k=0.4),Minor,0.0435,4.35
+Check valve,Component,0.6449,64.49

@@ -1,0 +1,8 @@
+Study,Year,Test_Condition,Power_W,Unit,System_Type
+Segel et al. [8],1982,"Four dampers, poor road, 48 km/h",200,W,Passenger vehicle damper
+Fang et al. [10],2013,"Prototype test, 3 mm / 10 Hz",200,W,Hydraulic electromagnetic (HESA)
+Wang et al. [13],2016,"1 Hz, 25 mm, 0.32 L accumulator, 20 ohm",260,W,Regenerative hydraulic
+Zuo & Zhang [3],2013,"60 mph, USA Class B/C roads (low end)",10,W,Conventional shock absorber
+Zuo & Zhang [3],2013,"60 mph, USA Class B/C roads (high end)",400,W,Conventional shock absorber
+Zuo & Zhang [3],2013,Bad roads,1600,W,Conventional shock absorber
+This project,2021,Average piston velocity 0.1 m/s,235,W,Hydraulic regenerative (proposed)

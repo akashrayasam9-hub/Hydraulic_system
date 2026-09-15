@@ -1,0 +1,26 @@
+Component,Parameter,Value,Unit
+Hydraulic Cylinder,Internal diameter,50,mm
+Hydraulic Cylinder,Piston rod diameter,20,mm
+Hydraulic Cylinder,Stroke length,200,mm
+Hydraulic Cylinder,Elbow pipe internal diameter,10,mm
+Hydraulic Cylinder,Wall thickness,2.5,mm
+Hydraulic Cylinder,Max allowable internal pressure,200,bar
+Hydraulic Cylinder,Material tensile strength,200,MPa
+Check Valve,Target cracking pressure,0.2,bar
+Check Valve,Effective diameter,7,mm
+Check Valve,Discharge coefficient,0.7,ratio
+Hydraulic Motor,Required displacement (calculated),10.07,cc/rev
+Hydraulic Motor,Selected displacement (Parker M4-060),9.8,cc/rev
+Hydraulic Motor,Min speed,36,rpm
+Hydraulic Motor,Max speed,3600,rpm
+Hydraulic Motor,Weight,8.6,kg
+Hydraulic Motor,Design torque,4.77,N-m
+Hydraulic Motor,Mechanical efficiency assumed,85,%
+Hydraulic Motor,Volumetric efficiency assumed,90,%
+Generator,EMF constant kv,0.93,V-s/rad
+Generator,Load resistance,40,ohm
+Fluid,Kinematic viscosity,22,cSt
+Fluid,Density,870,kg/m3
+System,Design peak pressure,35,bar
+System,Design power target,1500,W
+System,Design speed target,3000,rpm
